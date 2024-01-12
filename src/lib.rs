@@ -1,2 +1,1 @@
-#[cfg(test)]
-mod test;
+mod schnorr_example;
